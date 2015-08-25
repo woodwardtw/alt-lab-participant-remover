@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: ALT Lab Remove Other Blogs
-Plugin URI: http://
-Description: Removes all the blogs where you are a participant
+Plugin Name: ALT Lab Remove Participant Blogs
+Plugin URI: https://github.com/woodwardtw/alt-lab-participant-remover
+Description: Removes all the blogs where you are just a participant
 Author: Tom Woodward
 Version: 1.1
 Author URI: http://bionicteaching.com/
